@@ -5,7 +5,7 @@ Cryptify is an innovative payment platform that brings the simplicity of UPI to 
 
 ## **CRYPTIFY Is an Payment Platform - Not an Trading Platform** 
 
-![Cryptify Logo](![cryptify_logo](https://github.com/user-attachments/assets/c9a50216-06b6-4631-b40e-6e62cacd6aab))
+![cryptify_logo](https://github.com/user-attachments/assets/c9a50216-06b6-4631-b40e-6e62cacd6aab)
 
 [![Built with Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
