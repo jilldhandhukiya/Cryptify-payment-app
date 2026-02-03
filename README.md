@@ -7,14 +7,16 @@ Cryptify is an innovative payment platform that brings the simplicity of UPI to 
 
 ![cryptify_logo](https://github.com/user-attachments/assets/c9a50216-06b6-4631-b40e-6e62cacd6aab)
 
-[![Built with Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.aws.com/)
-
-
 *Bridging Traditional Finance & Crypto Payments for India's Digital Economy*
+
+### SCREENSHOTS
+<img width="1056" height="556" alt="image" src="https://github.com/user-attachments/assets/3ea3f7a5-e90d-4886-ac35-eb8e0c55c87b" />
+<img width="1109" height="574" alt="image" src="https://github.com/user-attachments/assets/97f36176-a390-47c3-9185-b4b08d1cec80" />
+<img width="1087" height="591" alt="image" src="https://github.com/user-attachments/assets/5b0fecc1-911f-4e95-89fa-da12733c9fe3" />
+<img width="1123" height="581" alt="image" src="https://github.com/user-attachments/assets/4838bf85-5359-4863-9f02-c34cfd788926" />
+<img width="592" height="653" alt="image" src="https://github.com/user-attachments/assets/78485518-e837-45a4-a52d-fc1a7cc0f3a2" />
+
+
 
 ## 🚀 Key Features
 
@@ -35,29 +37,15 @@ Cryptify is an innovative payment platform that brings the simplicity of UPI to 
 
 ## 🛠 Technology Stack
 
-### Frontend
-- Flutter for Cross-platform Mobile Apps
-- Chart.js for Analytics Visualization
-- GSAP for Smooth Animations
-- WebSocket for Real-time Updates
+[![Built with Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Made with Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.aws.com/)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![BitGo](https://img.shields.io/badge/BitGo-2CA5E0?style=for-the-badge&logo=bitgo&logoColor=white)](https://www.bitgo.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
-### Backend
-- Node.js & Express
-- PostgreSQL Database
-- Redis for Caching
-- Kafka for Event Streaming
-- Docker & Docker Compose
-
-### Security & Integration
-- BitGo API Integration
-- JWT Authentication
-- WebSocket Protocol
-- OAuth 2.0
-- SSL/TLS Encryption
-
-### DevOps & Monitoring
-- Docker Containerization
-- ELK Stack for Logging
 
 ## 📈 Business Model
 
@@ -125,7 +113,10 @@ Cryptify is an innovative payment platform that brings the simplicity of UPI to 
     - Cross-bank transfers
     - Multi-wallet compatibility
 
-**Disclaimer:** "Cryptify" is a demonstration name used for academic purposes. No commercial rights are implied or claimed. This project is a proof-of-concept developed as part of academic research.
+> ⚠️ **Disclaimer**  
+> **"Cryptify"** name and Logo are for **demonstration** and **academic purposes** only.  
+> **No commercial rights** are implied or claimed.  
+> This project is a **proof-of-concept** developed as part of **academic research and for Idea Representation**.
 
 ## 📞 Contact for More
 - Email: Jilldhandhukiya2005@gmail.com
